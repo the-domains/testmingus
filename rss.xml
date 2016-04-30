@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[TestMingus]]></title>
         <description><![CDATA[TestMingus]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/testmingus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 07:12:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Apr 2016 07:38:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testmingus/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bc5a5a4-0d97-4cf2-bdae-79d5af84dc7f.jpg">]]></description>
-            <link>undefinedmingus-amongst-us/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3cb312b-48fa-4849-9aab-978aacc072bb.jpg">]]></description>
+            <link>https://thegrid.ai/testmingus/mingus-amongst-us/index.html</link>
             <guid isPermaLink="false">2641f00f-881f-44ac-931a-81b208b51eb4</guid>
-            <pubDate>Sat, 30 Apr 2016 07:12:40 GMT</pubDate>
+            <pubDate>Sat, 30 Apr 2016 07:37:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
