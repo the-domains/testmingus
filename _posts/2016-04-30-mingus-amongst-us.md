@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Mingus Amongst Us
-datePublished: '2016-04-30T07:37:05.228Z'
-dateModified: '2016-04-30T07:36:52.578Z'
+datePublished: '2016-04-30T08:30:17.728Z'
+dateModified: '2016-04-30T08:19:01.514Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-30-mingus-amongst-us.md
@@ -17,7 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: mingus-amongst-us/index.html
 _type: Article
 
