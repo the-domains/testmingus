@@ -4,14 +4,14 @@
         <description><![CDATA[TestMingus]]></description>
         <link>https://thegrid.ai/testmingus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 07:27:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 22:40:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testmingus/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3cb312b-48fa-4849-9aab-978aacc072bb.jpg">]]></description>
+            <title><![CDATA[Mingus Amongst Us]]></title>
+            <description><![CDATA[<article><h1>Mingus Amongst Us</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f66299f7d7daf71ed0021cef8178a04cde0094c.jpg"></article>]]></description>
             <link>https://thegrid.ai/testmingus/mingus-amongst-us/index.html</link>
             <guid isPermaLink="false">2641f00f-881f-44ac-931a-81b208b51eb4</guid>
-            <pubDate>Sat, 30 Apr 2016 08:30:17 GMT</pubDate>
+            <pubDate>Tue, 03 May 2016 22:40:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
