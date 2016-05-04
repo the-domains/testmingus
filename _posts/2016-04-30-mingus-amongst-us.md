@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-03T22:40:02.989Z'
-dateModified: '2016-05-03T22:20:51.982Z'
+datePublished: '2016-05-04T00:53:53.123Z'
+dateModified: '2016-05-03T22:40:07.794Z'
 title: Mingus Amongst Us
 author: []
 sourcePath: _posts/2016-04-30-mingus-amongst-us.md
@@ -18,8 +19,7 @@ publisher:
   url: null
   favicon: null
 starred: true
-url: mingus-amongst-us/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Mingus Amongst Us
